@@ -2,6 +2,9 @@ export const blogList = [
   {
     articles: [
       {
+        name: '2023-10-30.md',
+      },
+      {
         name: '2023-07-23.md',
       },
       {
